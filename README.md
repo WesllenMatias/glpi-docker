@@ -30,7 +30,9 @@ MYSQL_USER=
 MYSQL_PASSWORD=
 
 ```
+
 __Nestas Variaveis devem ser informados respectivamente a senha do root do mysql, o nome do banco para ser usado no GLPI, o usuário do banco de dados e a senha dele.__
+
 
 - Proximo passo é subir os containers basta executar o comando abaixo:
 

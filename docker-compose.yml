@@ -16,7 +16,7 @@ services:
   #GLPI Container
   glpi:
     image: diouxx/glpi
-    container_name : glpi
+    container_name: glpi
     hostname: glpi
     ports:
       - "8080:80"
