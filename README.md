@@ -38,7 +38,7 @@ __Nestas Variaveis devem ser informados respectivamente a senha do root do mysql
 
 ```docker
 
-docker-compose build -d
+docker-compose up -d
 
 ```
 
